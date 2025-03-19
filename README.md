@@ -20,7 +20,6 @@ Web Crawlers
 - The system ensures existing contests are updated while preventing duplicate entries.
 
 Technologies Used for Crawlers
-- Cheerio.js for HTML parsing
 - Puppeteer for automated browser interactions
 
 User Endpoints
