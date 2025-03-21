@@ -1,5 +1,9 @@
 Video Link - https://drive.google.com/file/d/1mEJAPO6K7Wvpf4aMpTsXdlqz8q8-Jm1b/view?usp=sharing
 
+
+IN ORDER VIEW THE FRONT END CODE BASE KINDLY VISIT THIS REPO : https://github.com/Ravikanta16/Contest-Tracker-FE
+(The React init app created a repo that started acting as a submodule and mess got created , thats why I have simply seperated the repo)
+
 Overview
 
 The Contest Tracker is a web application built using the MERN stack that helps competitive programmers keep track of past and upcoming coding contests from platforms like LeetCode and Codeforces. Users can bookmark contests, unbookmark them, and access solutions uploaded by the admin for past contests.
