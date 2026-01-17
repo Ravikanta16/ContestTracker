@@ -1,6 +1,3 @@
-Video Link - https://drive.google.com/file/d/1mEJAPO6K7Wvpf4aMpTsXdlqz8q8-Jm1b/view?usp=sharing
-
-
 IN ORDER VIEW THE FRONT END CODE BASE KINDLY VISIT THIS REPO : https://github.com/Ravikanta16/Contest-Tracker-FE
 (The React init app created a repo that started acting as a submodule and mess got created , thats why I have simply seperated the repo)
 
